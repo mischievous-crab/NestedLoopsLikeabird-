@@ -73,6 +73,6 @@ class Main {
             }
         }
 
-        return "The armstrong numbers between " + input1 + " and " + input2 + " is: " + "\n" + all;
+        return "The armstrong numbers between " + input1 + " and " + input2 + " are: " + "\n" + all;
     }
 }
